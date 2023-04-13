@@ -164,19 +164,19 @@ print(classification_report(y_test,predictions))
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/31.png?raw=true)
 ### First five values of X
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/32.png?raw=true)
-###First five values of Y
+### First five values of Y
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/33.png?raw=true)
-###Unique values in Y
+### Unique values in Y
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/34.png?raw=true)
-###Transforming Categorical into numerical values for Y
+### Transforming Categorical into numerical values for Y
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/35.png?raw=true)
 ###Predictions
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/36.png?raw=true)
-###Accuracy
+### Accuracy
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/37.png?raw=true)
-###Confusion Matrix
+### Confusion Matrix
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/38.png?raw=true)
-###Classification Report
+### Classification Report
 ![output](https://github.com/VINUTHNA-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/39.png?raw=true)
 
 ## RESULT:
